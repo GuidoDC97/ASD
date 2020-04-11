@@ -1,0 +1,7 @@
+22:19:30 **** Incremental Build of configuration Release for project MergeSort ****
+Info: Internal Builder is used for build
+gcc -O3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o MergeSort.exe main.o merge_sort.o vector_f.o 
+
+22:19:30 Build Finished (took 748ms)
+

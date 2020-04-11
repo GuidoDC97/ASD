@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;HeapSort/Heap-Sort&apos; to &apos;Heap_Sprt&apos;" description="Rename resource &apos;Heap-Sort&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Heap-Sort" name="Heap_Sprt" stamp="1583069705449" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;HeapSort/Heap_Sprt&apos; to &apos;Heap_Sort.h&apos;" description="Rename resource &apos;Heap_Sprt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Heap_Sprt" name="Heap_Sort.h" stamp="1583069716046" updateReferences="true"/>
+</session>

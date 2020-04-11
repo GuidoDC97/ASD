@@ -1,0 +1,7 @@
+23:15:27 **** Incremental Build of configuration Debug for project HeapSort ****
+Info: Internal Builder is used for build
+gcc -O3 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o HeapSort.exe Heap_Sort.o main.o 
+
+23:15:27 Build Finished (took 796ms)
+
