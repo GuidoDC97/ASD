@@ -1,5 +1,10 @@
-# ASD
- Repository progetto ASD
+# Algorithms and Data Structure
+ Repository for Algorithms and Data Structure project.
  
- Il repository contiene il codice C sviluppato per la valutazione delle prestazioni di alcuni algoritmi basati su confronto. 
- Il progetto è raccolto e spiegato all'interno di un documento HTML scritto con l'ausilio di Jupyter Notebook.
+ Individual project about performance analysis of main comparison sorting algorithms.
+ 
+ ## Solution
+ Implementation in C of algorithms can be found in folder **[Workspace Eclipse](/Workspace%20Eclipse)**.
+ Analysis on collected performance data have been carried out in python using JupyterNotebook as IDE.
+ 
+ Detailed description about the approach taken, the algorithm's complexity, the pseudocodes and final conclusions are provided in **[Elaborato ASD.html](/Elaborato%20ASD.html)**.
